@@ -9,7 +9,6 @@ pipeline{
 	stages{
 		stage("build"){
 			steps{
-				git "https://github.com/Antax/apim_learning.git"
 				sh "mvn clean exec:java"
 			}
 		}
