@@ -18,7 +18,7 @@
         <dependency>
             <groupId>com.github.axway-api-management-plus.apim-cli</groupId>
             <artifactId>apimcli-apis</artifactId>
-            <version>${apim.cli.version}</version>
+            <version>[1.0.0,)</version>
         </dependency>
     </dependencies>
 
