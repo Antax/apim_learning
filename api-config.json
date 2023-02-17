@@ -1,0 +1,8 @@
+{
+	"name":"Petstore API",
+	"path":"/petstore/v1",
+	"state":"published",
+	"version":"1.0.1",
+	"organization":"Producer",
+	"apiDefinition":"https://petstore.swagger.io/v2/swagger.json",
+}
