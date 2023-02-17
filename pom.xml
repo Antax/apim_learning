@@ -10,7 +10,7 @@
     <description>Pet-Store API</description>
 
     <properties>
-        <apiConfigFile>src/main/resources/api-config.json</apiConfigFile>
+        <apiConfigFile>api-config.json</apiConfigFile>
         <apim.cli.version>1.11.0-SNAPSHOT</apim.cli.version>
     </properties>
 
